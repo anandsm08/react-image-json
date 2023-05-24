@@ -3,56 +3,64 @@
         "id" : 1,
         "imageSrc": "../images/people_avatars1.jpg",
         "gender": "female",
-        "name":"Avatar1"
-
+        "name":"Avatar1",
+        "imageUrl":"https://ik.imagekit.io/rke8bxu72/images/people_avatars1.jpg?updatedAt=1684916009690"
     },
     {
         "id" : 2,
         "imageSrc": "../images/people_avatars2.jpg",
         "gender": "female",
-        "name":"Avatar2"
+        "name":"Avatar2",
+        "imageUrl":"https://ik.imagekit.io/rke8bxu72/images/people_avatars2.jpg?updatedAt=1684916009468"
 
     },
     {
         "id" : 3,
         "imageSrc": "../images/people_avatars3.jpg",
         "gender": "male",
-        "name":"Avatar3"
+        "name":"Avatar3",
+        "imageUrl":"https://ik.imagekit.io/rke8bxu72/images/people_avatars3.jpg?updatedAt=1684916009632"
     },
     {
         "id" : 4,
         "imageSrc": "../images/people_avatars4.jpg",
         "gender": "female",
-        "name":"Avatar4"
+        "name":"Avatar4",
+        "imageUrl":"https://ik.imagekit.io/rke8bxu72/images/people_avatars3.jpg?updatedAt=1684916009632"
     },
     {
         "id" : 5,
         "imageSrc": "../images/people_avatars5.jpg",
         "gender": "female",
-        "name":"Avatar5"
+        "name":"Avatar5",
+        "imageUrl":"https://ik.imagekit.io/rke8bxu72/images/people_avatars3.jpg?updatedAt=1684916009632"
     },
     {
         "id" : 6,
         "imageSrc": "../images/people_avatars6.jpg",
         "gender": "male",
-        "name":"Avatar6"
+        "name":"Avatar6",
+        "imageUrl":"https://ik.imagekit.io/rke8bxu72/images/people_avatars6.jpg?updatedAt=1684916009709"
     },
     {
         "id" : 7,
         "imageSrc": "../images/people_avatars7.jpg",
         "gender": "female",
-        "name":"Avatar7"
+        "name":"Avatar7",
+        "imageUrl":"https://ik.imagekit.io/rke8bxu72/images/people_avatars7.jpg?updatedAt=1684916009660"
     },
     {
         "id" : 8,
         "imageSrc": "../images/people_avatars8.jpg",
         "gender": "male",
-        "name":"Avatar8"
+        "name":"Avatar8",
+        "imageUrl":"https://ik.imagekit.io/rke8bxu72/images/people_avatars8.jpg?updatedAt=1684916009696"
     },
     {
         "id" : 9,
         "imageSrc": "../images/people_avatars9.jpg",
         "gender": "male",
-        "name":"Avatar9"
+        "name":"Avatar9",
+        "imageUrl":"https://ik.imagekit.io/rke8bxu72/images/people_avatars9.jpg?updatedAt=1684916009674"
     }
 ]

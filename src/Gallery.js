@@ -58,13 +58,13 @@ const Gallery = () => {
                   </div>
                 </div>
                 <div className="flex items-center  md:items-center lg:justify-end">
-                <FacebookShareButton url={image.imageSrc}>
+                <FacebookShareButton url={image.imageUrl}>
                     <FaFacebook className="text-brand-500 hover:text-brand-600 mx-2" />
                   </FacebookShareButton>
-                  <WhatsappShareButton url={image.imageSrc}>
+                  <WhatsappShareButton url={image.imageUrl}>
                     <FaWhatsapp className="text-brand-500 hover:text-brand-600 mx-2" />
                   </WhatsappShareButton>
-                  <TwitterShareButton url={image.imageSrc}>
+                  <TwitterShareButton url={image.imageUrl}>
                     <FaTwitter className="text-brand-500 hover:text-brand-600 mx-2" />
                   </TwitterShareButton>
                   
